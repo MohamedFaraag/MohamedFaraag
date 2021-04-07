@@ -27,7 +27,7 @@
 
 ### A Mechanical Engineer, Developer & Writer
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
 
